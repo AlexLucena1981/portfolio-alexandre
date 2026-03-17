@@ -57,7 +57,7 @@ export default function Home() {
           {/* Projeto 1: Aurum */}
           <div className="bg-slate-900/50 border border-slate-800 rounded-2xl p-8 hover:border-sky-500/50 transition-all duration-300 group flex flex-col h-full hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(56,189,248,0.1)]">
             <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">Aurum NeuroAnalytics</h3>
-            <p className="text-slate-400 mb-6 leading-relaxed flex-grow">Sistema clínico e operacional voltado para Health Tech. Conta com controle de acesso baseado em funções (RBAC) para Administração, Especialistas e Recepção. Inclui gestão de pacientes, relatórios clínicos personalizados e aplicação de protocolos de avaliação (como M-CHAT).</p>
+            <p className="text-slate-400 mb-6 leading-relaxed flex-grow">Sistema clínico e operacional voltado para Health Tech. Conta com controle de acesso baseado em funções (RBAC) para Administração, Especialistas e Recepção. Inclui gestão de pacientes, relatórios clínicos personalizados e aplicação de protocolos de rastreio para o Autiosmo.</p>
             <div className="flex flex-wrap gap-2 mt-auto">
               <span className="px-3 py-1 bg-slate-800 text-sky-300 text-xs rounded-full">Health Tech</span>
               <span className="px-3 py-1 bg-slate-800 text-sky-300 text-xs rounded-full">RBAC</span>
@@ -74,9 +74,9 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Projeto 3: Portal GC3 */}
+          {/* Projeto 3: Portal de Condomínios */}
           <div className="bg-slate-900/50 border border-slate-800 rounded-2xl p-8 hover:border-sky-500/50 transition-all duration-300 group flex flex-col h-full hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(56,189,248,0.1)]">
-            <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">Portal GC3</h3>
+            <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">Portal de Condomínios</h3>
             <p className="text-slate-400 mb-6 leading-relaxed flex-grow">Portal completo para gestão de condomínios utilizando arquitetura Serverless (Firebase Functions). Módulos interativos para Moradores, Portaria e Administração, englobando encomendas, reservas de espaços e livro de ocorrências digital.</p>
             <div className="flex flex-wrap gap-2 mt-auto">
               <span className="px-3 py-1 bg-slate-800 text-sky-300 text-xs rounded-full">Serverless / Firebase</span>
@@ -84,9 +84,9 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Projeto 4: Clinica Revitale */}
+          {/* Projeto 4: Clinica Médica Especializada */}
           <div className="bg-slate-900/50 border border-slate-800 rounded-2xl p-8 hover:border-sky-500/50 transition-all duration-300 group flex flex-col h-full hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(56,189,248,0.1)]">
-            <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">Sistema Revitale</h3>
+            <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">Sistema Clinica Médica Especializada</h3>
             <p className="text-slate-400 mb-6 leading-relaxed flex-grow">Sistema de gestão para um núcleo de terapias integradas com foco em TEA. Agenda multidisciplinar complexa (ABA, Fonoaudiologia, TO), monitoramento inteligente de sessões e auditoria de guias de convênio.</p>
             <div className="flex flex-wrap gap-2 mt-auto">
               <span className="px-3 py-1 bg-slate-800 text-sky-300 text-xs rounded-full">Agenda Complexa</span>
@@ -104,9 +104,9 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Projeto 6: Faes */}
+          {/* Projeto 6: Portal de Empresas Multiserviços */}
           <div className="bg-slate-900/50 border border-slate-800 rounded-2xl p-8 hover:border-sky-500/50 transition-all duration-300 group flex flex-col h-full hover:-translate-y-2 hover:shadow-[0_10px_30px_rgba(56,189,248,0.1)]">
-            <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">FAES MultiServiços</h3>
+            <h3 className="text-2xl font-bold text-slate-100 mb-3 group-hover:text-sky-400 transition-colors">Portal de Empresas Multiserviços</h3>
             <p className="text-slate-400 mb-6 leading-relaxed flex-grow">Solução focada em presença corporativa e solidez para uma empresa de terceirização (SP e RN). Estrutura o amplo portfólio da empresa, desde portaria e controle de acesso até manutenção predial estratégica.</p>
             <div className="flex flex-wrap gap-2 mt-auto">
               <span className="px-3 py-1 bg-slate-800 text-sky-300 text-xs rounded-full">Solução Corporativa</span>
